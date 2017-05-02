@@ -4,8 +4,8 @@ public class MatrixRotation {
 	
 	public static int[][] Rotation(int[][] arr){
 		
-		int n =4;
-		int size = 4;
+		//int n =4;
+		int size = 4, n = 4;
 		int currLayer = n/2;
 		int j=0;
 		while(j<currLayer){
